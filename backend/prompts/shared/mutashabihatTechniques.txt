@@ -1,0 +1,6 @@
+MUTASHABIHAT TECHNIQUES
+* Reversal patterns: word order flipped
+* Alphabetical Order Rule: earlier Surah uses alphabetically earlier word
+* Odd One Out: unique phrase in one Surah only
+* Keyword anchoring: connect to distinguishing word
+* Mnemonic association: first letters of differing words form trigger
